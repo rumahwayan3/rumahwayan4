@@ -1,4 +1,6 @@
 <script>
 alert("hai")
-alert("kalian liburan kemana aja?")
+alert("semoga nilai rapot kalian memuaskan")
+alert("Amin")
+alert("terima kasih ya udah buka website ini")
 </script>
